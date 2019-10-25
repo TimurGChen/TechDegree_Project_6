@@ -2,48 +2,48 @@
     "projects":[
         {
             "id": 0,
-            "project-name": "Random Quote Generator",
+            "project_name": "Random Quote Generator",
             "description": "A JavaScript Program that displays a randomly selected CS-related code everytime the user clicks a button.",
             "technologies": ["Basic JavaScript Syntax", "Array Methods", "Accessing Object Properties", "Random Number Generator", "Dynamic HTML Editing"],
             "live_link": "https://timurgchen.github.io/TechDegree_Project_1/",
             "github_link": "https://github.com/TimurGChen/TechDegree_Project_1.git",
-            "image_urls": ["../images/project_1_a", "../images/project_1_b", "../images/project_1_c"]
+            "image_urls": ["/static/images/project_1_a.png", "/static/images/project_1_b.png", "/static/images/project_1_c.png"]
         },
         {
             "id": 1,
-            "project-name": "Paginated Roster",
+            "project_name": "Paginated Roster",
             "description": "A web page that divides a long roster into pages, each containing 10 items, and provides search function to find wanted results.",
             "technologies": ["Unobstrusive JavaScript", "List Pagination", "Search and Filtering", "Page Navigation"],
             "live_link": "https://timurgchen.github.io/TechDegree_Project_2/",
             "github_link": "https://github.com/TimurGChen/TechDegree_Project_2.git",
-            "image_urls": ["../images/project_2_a", "../images/project_2_b", "../images/project_2_c"]
+            "image_urls": ["/static/images/project_2_a.png", "/static/images/project_2_b.png", "/static/images/project_2_c.png"]
         },
         {
             "id": 2,
-            "project-name": "Interactive Sign-Up Form",
+            "project_name": "Interactive Sign-Up Form",
             "description": "A sign-up form that collects user information interactively using JavaScript",
             "technologies": ["jQuery", "Regular Expressions", "Form Validation", "Interactive Content Display"],
             "live_link": "https://timurgchen.github.io/TechDegree_Project_3/",
             "github_link": "https://github.com/TimurGChen/TechDegree_Project_3.git",
-            "image_urls": ["../images/project_3_a", "../images/project_3_b", "../images/project_3_c"]
+            "image_urls": ["/static/images/project_3_a.png", "/static/images/project_3_b.png", "/static/images/project_3_c.png"]
         },
         {
             "id": 3,
-            "project-name": "Phrase Hunter Game",
+            "project_name": "Phrase Hunter Game",
             "description": "A browser-based, word guessing game.",
             "technologies": ["Object-Oriented Programming", "Getter & Setter Methods", "Customized CSS"],
             "live_link": "https://timurgchen.github.io/TechDegree_Project_4/",
             "github_link": "https://github.com/TimurGChen/TechDegree_Project_4.git",
-            "image_urls": ["../images/project_4_a", "../images/project_4_b", "../images/project_4_c"]
+            "image_urls": ["/static/images/project_4_a.png", "/static/images/project_4_b.png", "/static/images/project_4_c.png"]
         },
         {
             "id": 4,
-            "project-name": "Employee Directory",
+            "project_name": "Employee Directory",
             "description": "An employee directory that retrieves information from a third party API",
             "technologies": ["Fetching Data from API", "Search and Filter", "Modal Window Overlay"],
             "live_link": "https://timurgchen.github.io/TechDegree_Project_5/",
             "github_link": "https://github.com/TimurGChen/TechDegree_Project_5.git",
-            "image_urls": ["../images/project_5_a", "../images/project_5_b", "../images/project_5_c"]
+            "image_urls": ["/static/images/project_5_a.png", "/static/images/project_5_b.png", "/static/images/project_5_c.png"]
         }
     ]
 }

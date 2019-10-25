@@ -1,0 +1,9 @@
+extends layout.pug
+
+block content
+    .error-message
+        h5 A piece of fresh and not-so-edible ERROR message under the mushroom reads: 
+        h1 #{err.message} - Status: #{err.status}
+        h5 And Some Scary, Hairy, Eerie Stacktrace goes:
+        br
+        p= err.stack
