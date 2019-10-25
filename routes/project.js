@@ -20,6 +20,7 @@ router.get('/:id', (req, res, next) => {
             index = projects.length - 1;
         }
     }
+    
     res.render('project', {project: projects[index]});
 });
 
