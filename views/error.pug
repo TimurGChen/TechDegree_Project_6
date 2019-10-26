@@ -1,9 +1,14 @@
 extends layout.pug
 
 block content
+    nav.grid-container.portfolio-breadcrumb
+        a(href='/') ← Back
     .error-message
-        h5 A piece of fresh and not-so-edible ERROR message under the mushroom reads: 
-        h1 #{err.message} - Status: #{err.status}
-        h5 And Some Scary, Hairy, Eerie Stacktrace goes:
-        br
-        p= err.stack
+        img.mushroom(src="/static/images/mushroom.jpg")
+        //- https://commons.m.wikimedia.org/wiki/File:2011-09-13_Rhodotus_palmatus_(Bull.)_Maire_169125.jpg
+        .error
+            h5 A piece of fresh and not-so-edible ERROR message under the mushroom reads: 
+            h1 #{err.message} - Status: #{err.status}
+            br
+            h5 And Some Scary, Hairy, Eerie Stacktrace goes:
+            p= err.stack
