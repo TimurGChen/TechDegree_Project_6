@@ -16,6 +16,9 @@
   "bugs": {
     "url": "https://github.com/TimurGChen/TechDegree_Project_6/issues"
   },
+  "engines": {
+    "node": "10.16.3"
+  },
   "homepage": "https://github.com/TimurGChen/TechDegree_Project_6#readme",
   "dependencies": {
     "express": "^4.17.1",
