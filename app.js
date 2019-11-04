@@ -1,6 +1,7 @@
 const express = require('express');
 const path = require('path');
 const app = express();
+const port = process.env.PORT || 3000;
 
 // setup view engine
 app.set('view engine', 'pug');
@@ -20,6 +21,6 @@ app.use(handle404);
 app.use(handleGeneral);
 
 // start the server
-app.listen(3000, () => {
+app.listen(port, () => {
     console.log('Running on local port 3000');
 })
