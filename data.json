@@ -2,6 +2,16 @@
     "projects":[
         {
             "id": 0,
+            "project_name": "Data Science Project: Risk of Diabetes",
+            "description": "An analysis of the relationships between dietary and physical information and risk of diabetes, using data from the 2015-2016 National Health and Nutrition Examination Survey",
+            "technologies": ["Data Visualization", "Data Wrangling", "Cross Validation", "PCA", "Ensemble Methods"],
+            "live_link": "https://nbviewer.jupyter.org/github/TimurGChen/eds_capstone/blob/master/capstone.ipynb",
+            "github_link": "https://github.com/TimurGChen/eds_capstone.git",
+            "image_urls": ["/static/images/project_ds_a.jpg", "/static/images/project_ds_b.png", "/static/images/project_ds_c.png", "/static/images/project_ds_d.png"],
+            "image_titles": ["Data Cleaning", "Visualization", "Model Training"]
+        },
+        {
+            "id": 1,
             "project_name": "Treehouse Project 1/10: Random Quote Generator",
             "description": "A JavaScript Program that displays a randomly selected CS-related code everytime the user clicks a button.",
             "technologies": ["Basic JavaScript Syntax", "Array Methods", "Accessing Object Properties", "Random Number Generator", "Dynamic HTML Editing"],
@@ -11,7 +21,7 @@
             "image_titles": ["On Start Up", "Different Quote", "Another Quote"]
         },
         {
-            "id": 1,
+            "id": 2,
             "project_name": "Treehouse Project 2/10: Paginated Roster",
             "description": "A web page that divides a long roster into pages, each containing 10 items, and provides search function to find wanted results.",
             "technologies": ["Unobstrusive JavaScript", "List Pagination", "Search and Filtering", "Page Navigation"],
@@ -21,7 +31,7 @@
             "image_titles": ["On Start Up", "Page Navigation", "Search & Filter"]
         },
         {
-            "id": 2,
+            "id": 3,
             "project_name": "Treehouse Project 3/10: Interactive Sign-Up Form",
             "description": "A sign-up form that collects user information interactively using JavaScript",
             "technologies": ["jQuery", "Regular Expressions", "Form Validation", "Interactive Content Display"],
@@ -31,7 +41,7 @@
             "image_titles": ["On Start Up", "Interactive Input", "Real-Time Validation"]
         },
         {
-            "id": 3,
+            "id": 4,
             "project_name": "Treehouse Project 4/10: Phrase Hunter Game",
             "description": "A browser-based, word guessing game.",
             "technologies": ["Object-Oriented Programming", "Getter & Setter Methods", "Customized CSS"],
@@ -41,7 +51,7 @@
             "image_titles": ["On Start Up", "Game Play", "Victory with One Life Left"]
         },
         {
-            "id": 4,
+            "id": 5,
             "project_name": "Treehouse Project 5/10: Employee Directory",
             "description": "An employee directory that retrieves information from a third party API",
             "technologies": ["Fetching Data from API", "Search and Filter", "Modal Window Overlay"],
@@ -51,7 +61,7 @@
             "image_titles": ["On Start Up", "Search & Filter", "Modal Window"]
         },
         {
-            "id": 5,
+            "id": 6,
             "project_name": "Treehouse Project 6/10: Project Portfolio",
             "description": "A static project portfolio built with Node.js and Express",
             "technologies": ["npm Package Management", "Express Routing", "Pug Templates", "Express Error Handling"],
@@ -61,7 +71,7 @@
             "image_titles": ["On Start Up", "Project Details", "Error"]
         },
         {
-            "id": 6,
+            "id": 7,
             "project_name": "Treehouse Project 7/10: React Gallery App",
             "description": "A gallery app build with React showing Flickr pictures",
             "technologies": ["React Rendering", "Modularize with Components", "Axios Data Fetching"],
@@ -71,7 +81,7 @@
             "image_titles": ["On Start Up", "\"Dogs\" Tab", "Search for \"Giant Panda\""]
         },
         {
-            "id": 7,
+            "id": 8,
             "project_name": "Treehouse Project 8/10: SQL Library Manager",
             "description": "A web App that uses SQL to manage a library database of books",
             "technologies": ["SQL", "Seuqelize ORM", "Express Routing"],
@@ -79,6 +89,26 @@
             "github_link": "https://github.com/TimurGChen/TechDegree_Project_8.git",
             "image_urls": ["/static/images/project_8_a.jpg", "/static/images/project_8_b.png", "/static/images/project_8_c.png", "/static/images/project_8_d.png"],
             "image_titles": ["On Start Up", "Search Results", "Update/Delete Book Entry"]
+        },
+        {
+            "id": 9,
+            "project_name": "Treehouse Project 9/10: Rest API",
+            "description": "An Express-based Rest API that allow users to administer a database of courses",
+            "technologies": ["Sequelize Validation", "Data Relationships", "User Authentication"],
+            "live_link": "",
+            "github_link": "https://github.com/TimurGChen/TechDegree_Project_9.git",
+            "image_urls": ["/static/images/project_9_a.jpg", "/static/images/project_9_b.png", "/static/images/project_9_c.png", "/static/images/project_9_d.png"],
+            "image_titles": ["GET courses", "Authentication Failed", "Post (Create) New Course (Incomplete Data)"]
+        },
+        {
+            "id": 10,
+            "project_name": "Treehouse Project 10/10: Full Stack App",
+            "description": "You'll Soon Find Out!",
+            "technologies": [],
+            "live_link": "",
+            "github_link": "",
+            "image_urls": ["/static/images/project_10_a.jpg", "/static/images/coming_soon.png", "/static/images/coming_soon.png", "/static/images/coming_soon.png"],
+            "image_titles": ["", "", ""]
         }
     ]
 }
