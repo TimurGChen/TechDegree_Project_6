@@ -1,0 +1,21 @@
+[
+        {
+            "id": 8,
+            "project_name": "Treehouse Project 9/10: ",
+            "description": "",
+            "technologies": [],
+            "live_link": "",
+            "github_link": "https://github.com/TimurGChen/TechDegree_Project_9.git",
+            "image_urls": ["/static/images/project_9_a.png", "/static/images/project_9_b.png", "/static/images/project_9_c.png", "/static/images/project_9_d.png"],
+            "image_titles": ["On Start Up", "", ""]
+        },
+        {
+            "id": 9,
+            "project_name": "Treehouse Project 10/10: ",
+            "description": "",
+            "technologies": [],
+            "live_link": "",
+            "github_link": "https://github.com/TimurGChen/TechDegree_Project_5.git",
+            "image_urls": ["/static/images/project__a.png", "/static/images/project__b.png", "/static/images/project__c.png", "/static/images/project__d.png"],
+            "image_titles": ["On Start Up", "", ""]
+        }]

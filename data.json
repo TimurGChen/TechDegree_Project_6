@@ -2,7 +2,7 @@
     "projects":[
         {
             "id": 0,
-            "project_name": "Random Quote Generator",
+            "project_name": "Treehouse Project 1/10: Random Quote Generator",
             "description": "A JavaScript Program that displays a randomly selected CS-related code everytime the user clicks a button.",
             "technologies": ["Basic JavaScript Syntax", "Array Methods", "Accessing Object Properties", "Random Number Generator", "Dynamic HTML Editing"],
             "live_link": "https://timurgchen.github.io/TechDegree_Project_1/",
@@ -12,7 +12,7 @@
         },
         {
             "id": 1,
-            "project_name": "Paginated Roster",
+            "project_name": "Treehouse Project 2/10: Paginated Roster",
             "description": "A web page that divides a long roster into pages, each containing 10 items, and provides search function to find wanted results.",
             "technologies": ["Unobstrusive JavaScript", "List Pagination", "Search and Filtering", "Page Navigation"],
             "live_link": "https://timurgchen.github.io/TechDegree_Project_2/",
@@ -22,7 +22,7 @@
         },
         {
             "id": 2,
-            "project_name": "Interactive Sign-Up Form",
+            "project_name": "Treehouse Project 3/10: Interactive Sign-Up Form",
             "description": "A sign-up form that collects user information interactively using JavaScript",
             "technologies": ["jQuery", "Regular Expressions", "Form Validation", "Interactive Content Display"],
             "live_link": "https://timurgchen.github.io/TechDegree_Project_3/",
@@ -32,7 +32,7 @@
         },
         {
             "id": 3,
-            "project_name": "Phrase Hunter Game",
+            "project_name": "Treehouse Project 4/10: Phrase Hunter Game",
             "description": "A browser-based, word guessing game.",
             "technologies": ["Object-Oriented Programming", "Getter & Setter Methods", "Customized CSS"],
             "live_link": "https://timurgchen.github.io/TechDegree_Project_4/",
@@ -42,13 +42,43 @@
         },
         {
             "id": 4,
-            "project_name": "Employee Directory",
+            "project_name": "Treehouse Project 5/10: Employee Directory",
             "description": "An employee directory that retrieves information from a third party API",
             "technologies": ["Fetching Data from API", "Search and Filter", "Modal Window Overlay"],
             "live_link": "https://timurgchen.github.io/TechDegree_Project_5/",
             "github_link": "https://github.com/TimurGChen/TechDegree_Project_5.git",
             "image_urls": ["/static/images/project_5_a.png", "/static/images/project_5_b.png", "/static/images/project_5_c.png", "/static/images/project_5_d.png"],
             "image_titles": ["On Start Up", "Search & Filter", "Modal Window"]
+        },
+        {
+            "id": 5,
+            "project_name": "Treehouse Project 6/10: Project Portfolio",
+            "description": "A static project portfolio built with Node.js and Express",
+            "technologies": ["npm Package Management", "Express Routing", "Pug Templates", "Express Error Handling"],
+            "live_link": "https://portfolio-timur-guo-chen.herokuapp.com/",
+            "github_link": "https://github.com/TimurGChen/TechDegree_Project_6.git",
+            "image_urls": ["/static/images/project_6_a.png", "/static/images/project_6_b.png", "/static/images/project_6_c.png", "/static/images/project_6_d.png"],
+            "image_titles": ["On Start Up", "Project Details", "Error"]
+        },
+        {
+            "id": 6,
+            "project_name": "Treehouse Project 7/10: React Gallery App",
+            "description": "A gallery app build with React showing Flickr pictures",
+            "technologies": ["React Rendering", "Modularize with Components", "Axios Data Fetching"],
+            "live_link": "https://react-gallery-pets.netlify.com",
+            "github_link": "https://github.com/TimurGChen/TechDegree_Project_7.git",
+            "image_urls": ["/static/images/project_7_a.png", "/static/images/project_7_b.jpg", "/static/images/project_7_c.jpg", "/static/images/project_7_d.jpg"],
+            "image_titles": ["On Start Up", "\"Dogs\" Tab", "Search for \"Giant Panda\""]
+        },
+        {
+            "id": 7,
+            "project_name": "Treehouse Project 8/10: SQL Library Manager",
+            "description": "A web App that uses SQL to manage a library database of books",
+            "technologies": ["SQL", "Seuqelize ORM", "Express Routing"],
+            "live_link": "https://sql-library-manager-timur.herokuapp.com/",
+            "github_link": "https://github.com/TimurGChen/TechDegree_Project_8.git",
+            "image_urls": ["/static/images/project_8_a.jpg", "/static/images/project_8_b.png", "/static/images/project_8_c.png", "/static/images/project_8_d.png"],
+            "image_titles": ["On Start Up", "Search Results", "Update/Delete Book Entry"]
         }
     ]
 }
